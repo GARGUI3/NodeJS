@@ -1,0 +1,15 @@
+{
+  "name": "enrutamiento",
+  "version": "1.0.0",
+  "description": "Sistema de examenes",
+  "main": "server.js",
+  "dependencies": {
+    "restify": "latest",
+    "mongoose": "latest",
+    "body-parser": "latest",
+    "jsonwebtoken": "latest",
+    "lodash": "latest"
+  },
+  "author": "GARGUI3",
+  "license": "ISC"
+}

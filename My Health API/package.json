@@ -1,0 +1,27 @@
+{
+  "name": "my-health",
+  "version": "1.0.0",
+  "description": "Servidor de app My Health",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GARGUI3/My-Health-Server.git"
+  },
+  "dependencies": {
+    "morgan": "latest",
+    "express": "latest",
+    "body-parser": "latest",
+    "mongoose": "latest",
+    "bcrypt-nodejs": "latest",
+    "jsonwebtoken": "latest"
+  },
+  "author": "GARGUI3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GARGUI3/My-Health-Server/issues"
+  },
+  "homepage": "https://github.com/GARGUI3/My-Health-Server#readme"
+}
